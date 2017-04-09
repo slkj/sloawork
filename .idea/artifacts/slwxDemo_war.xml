@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="slwxDemo:war">
+    <output-path>$PROJECT_DIR$/slwxDemo/target</output-path>
+    <root id="archive" name="slwxDemo.war">
+      <element id="artifact" artifact-name="slwxDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
