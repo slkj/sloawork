@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sloawork.iml" filepath="$PROJECT_DIR$/sloawork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slwxDemo/slwxDemo.iml" filepath="$PROJECT_DIR$/slwxDemo/slwxDemo.iml" />
+    </modules>
+  </component>
+</project>
