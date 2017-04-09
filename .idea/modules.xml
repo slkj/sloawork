@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sloaweb/sloaweb.iml" filepath="$PROJECT_DIR$/sloaweb/sloaweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/sloawork.iml" filepath="$PROJECT_DIR$/sloawork.iml" />
       <module fileurl="file://$PROJECT_DIR$/slwxDemo/slwxDemo.iml" filepath="$PROJECT_DIR$/slwxDemo/slwxDemo.iml" />
     </modules>
