@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sloaweb/sloaweb.iml" filepath="$PROJECT_DIR$/sloaweb/sloaweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/sloawork.iml" filepath="$PROJECT_DIR$/sloawork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slwx/slwx.iml" filepath="$PROJECT_DIR$/slwx/slwx.iml" />
       <module fileurl="file://$PROJECT_DIR$/slwxDemo/slwxDemo.iml" filepath="$PROJECT_DIR$/slwxDemo/slwxDemo.iml" />
     </modules>
   </component>
