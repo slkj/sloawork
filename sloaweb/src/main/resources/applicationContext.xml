@@ -9,8 +9,5 @@
        ">
     <!--需要扫描的包  -->
     <context:component-scan base-package="cn.slkj.sloa"/>
-    <import resource="spring-mvc.xml"/>
-    <import resource="spring-database.xml"/>
-    <import resource="spring-aop.xml"/>
 
 </beans>
